@@ -3,7 +3,6 @@ import Hero from '@/components/Hero';
 import SectionHeader from '@/components/SectionHeader';
 import NewsTimeline from '@/components/NewsTimeline';
 import TagCloud from '@/components/TagCloud';
-import BlogCard from '@/components/BlogCard';
 import ResearchAreas from '@/components/ResearchAreas';
 import PublicationsList from '@/components/PublicationsList';
 import ChipGalleryGrid from '@/components/ChipGalleryGrid';
@@ -14,7 +13,6 @@ import {
   getProfile,
   getNews,
   getTags,
-  getPosts,
   getResearch,
   getPublications,
   getChipGallery,
@@ -25,7 +23,6 @@ export default function Home() {
   const profile = getProfile();
   const newsPreview = getNews(8);
   const tags = getTags();
-  const posts = getPosts(2);
   const research = getResearch();
   const publications = getPublications();
   const chips = getChipGallery();
@@ -77,19 +74,6 @@ export default function Home() {
             viewAllHref="/gallery/photos"
           />
           <PhotoGalleryGrid items={photos} compact />
-        </section>
-
-        <section id="archive" className="py-12">
-          <SectionHeader
-            title="Notes"
-            description="CV-derived academic achievement summary."
-            viewAllHref="/archive"
-          />
-          <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
-            {posts.map((post) => (
-              <BlogCard key={post.slug} post={post} />
-            ))}
-          </div>
         </section>
 
         <section id="research" className="py-12">

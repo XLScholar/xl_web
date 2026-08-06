@@ -12,7 +12,6 @@ const navItems = [
   { href: '/gallery/photos', label: 'Photos' },
   { href: '/archive', label: 'Archive' },
   { href: '/cv', label: 'CV' },
-  { href: '/manual-edit', label: 'Edit' },
   { href: '/#contact', label: 'Contact' },
 ];
 
