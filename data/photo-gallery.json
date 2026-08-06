@@ -1,0 +1,137 @@
+[
+  {
+    "id": "p1",
+    "title": "IEEE COMPEL 2026",
+    "location": "Cambridge, UK · July 2026",
+    "caption": "At the IEEE Workshop on Control and Modeling for Power Electronics (COMPEL) in Cambridge — presenting power-electronics research and serving as Session Chair.",
+    "src": "/gallery/photos/thumb/p1.jpg",
+    "tags": ["COMPEL", "Cambridge", "Conference"],
+    "featured": true
+  },
+  {
+    "id": "p2",
+    "title": "IEEE CICC 2026",
+    "location": "Seattle, WA, USA · April 2026",
+    "caption": "At the IEEE Custom Integrated Circuits Conference (CICC) in Seattle — showcasing the Unicorn unified clock-and-power SoC and connecting with the IC design community.",
+    "src": "/gallery/photos/thumb/p2.jpg",
+    "tags": ["CICC", "Seattle", "Conference"],
+    "featured": true
+  },
+  {
+    "id": "p3",
+    "title": "Ph.D. Defense",
+    "location": "HKUST, Hong Kong · Dec 2022",
+    "caption": "Doctoral dissertation defense on the eve of Christmas 2022 at the Hong Kong University of Science and Technology — IR-Drop- and Timing-Aware Power Management Techniques for Microprocessors (supervisor: Prof. Wing-Hung Ki).",
+    "src": "/gallery/photos/thumb/p3.jpg",
+    "tags": ["Ph.D.", "HKUST", "Milestone"],
+    "featured": true
+  },
+  {
+    "id": "p4",
+    "title": "Tower of Shadows, Halo of Light",
+    "album": "The Sun Never Sets: London's Backlit Majesty",
+    "albumId": "never-setting-sun",
+    "albumOrder": 1,
+    "sortOrder": 1,
+    "caption": "Golden light that lingers at the horizon.",
+    "src": "/gallery/photos/thumb/p4.jpg",
+    "tags": ["日不落", "London", "Travel"],
+    "featured": false
+  },
+  {
+    "id": "p5",
+    "title": "Echoes of Legend, Lens of Fire",
+    "album": "The Sun Never Sets: London's Backlit Majesty",
+    "albumId": "never-setting-sun",
+    "albumOrder": 1,
+    "sortOrder": 2,
+    "caption": "Long summer evenings where day refuses to end.",
+    "src": "/gallery/photos/thumb/p5.jpg",
+    "tags": ["日不落", "London", "Travel"],
+    "featured": false
+  },
+  {
+    "id": "p6",
+    "title": "The Ascending Pillar of Light",
+    "album": "The Sun Never Sets: London's Backlit Majesty",
+    "albumId": "never-setting-sun",
+    "albumOrder": 1,
+    "sortOrder": 3,
+    "caption": "Warm skies stretching into the quiet north.",
+    "src": "/gallery/photos/thumb/p6.jpg",
+    "tags": ["日不落", "London", "Travel"],
+    "featured": false
+  },
+  {
+    "id": "p7",
+    "title": "Cotton Candy Whispers",
+    "album": "Echoes of Blue Hours",
+    "albumId": "blue-hour",
+    "albumOrder": 2,
+    "sortOrder": 1,
+    "caption": "Blue hour — the brief pause between daylight and night.",
+    "src": "/gallery/photos/thumb/p7.jpg",
+    "tags": ["蓝调时刻", "Blue Hour", "Travel"],
+    "featured": false
+  },
+  {
+    "id": "p8",
+    "title": "Blazing Skyline",
+    "album": "Echoes of Blue Hours",
+    "albumId": "blue-hour",
+    "albumOrder": 2,
+    "sortOrder": 2,
+    "caption": "Cool indigo tones settling over the city and sea.",
+    "src": "/gallery/photos/thumb/p8.jpg",
+    "tags": ["蓝调时刻", "Blue Hour", "Travel"],
+    "featured": false
+  },
+  {
+    "id": "p9",
+    "title": "Silent Nightwatch",
+    "album": "Echoes of Blue Hours",
+    "albumId": "blue-hour",
+    "albumOrder": 2,
+    "sortOrder": 3,
+    "caption": "Twilight reflections before the first stars appear.",
+    "src": "/gallery/photos/thumb/p9.jpg",
+    "tags": ["蓝调时刻", "Blue Hour", "Travel"],
+    "featured": false
+  },
+  {
+    "id": "p10",
+    "title": "Whispering Alleyways",
+    "album": "Wanderlust & Pathways",
+    "albumId": "road-afar",
+    "albumOrder": 3,
+    "sortOrder": 1,
+    "caption": "The road ahead — open horizons and quiet determination.",
+    "src": "/gallery/photos/thumb/p10.jpg",
+    "tags": ["路与远方", "Wanderlust", "Travel"],
+    "featured": false
+  },
+  {
+    "id": "p11",
+    "title": "Twilight along the Kamogawa",
+    "album": "Wanderlust & Pathways",
+    "albumId": "road-afar",
+    "albumOrder": 3,
+    "sortOrder": 2,
+    "caption": "Paths that lead beyond the familiar skyline.",
+    "src": "/gallery/photos/thumb/p11.jpg",
+    "tags": ["路与远方", "Wanderlust", "Travel"],
+    "featured": false
+  },
+  {
+    "id": "p12",
+    "title": "The Nocturnal Passage",
+    "album": "Wanderlust & Pathways",
+    "albumId": "road-afar",
+    "albumOrder": 3,
+    "sortOrder": 3,
+    "caption": "Journeys remembered in motion, distance, and light.",
+    "src": "/gallery/photos/thumb/p12.jpg",
+    "tags": ["路与远方", "Wanderlust", "Travel"],
+    "featured": false
+  }
+]

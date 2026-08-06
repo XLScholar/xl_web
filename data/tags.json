@@ -1,0 +1,16 @@
+[
+  { "name": "Vertical Power Delivery", "slug": "vertical-power-delivery" },
+  { "name": "PMIC", "slug": "pmic" },
+  { "name": "SiP", "slug": "sip" },
+  { "name": "IVR", "slug": "ivr" },
+  { "name": "Hybrid SC", "slug": "hybrid-sc" },
+  { "name": "Resonant SC", "slug": "resonant-sc" },
+  { "name": "SIMO", "slug": "simo" },
+  { "name": "Clock-Power Co-design", "slug": "clock-power-co-design" },
+  { "name": "DVFS", "slug": "dvfs" },
+  { "name": "DLDO", "slug": "dldo" },
+  { "name": "UVFR", "slug": "uvfr" },
+  { "name": "AI Server", "slug": "ai-server" },
+  { "name": "HPC", "slug": "hpc" },
+  { "name": "Tape-out", "slug": "tape-out" }
+]

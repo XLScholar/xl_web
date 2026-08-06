@@ -1,0 +1,58 @@
+[
+  {
+    "id": "power-delivery-2d3d",
+    "level": "Pillar 1",
+    "title": "Integrated Power Delivery for 2.5D/3D Heterogeneous Systems",
+    "summary": "Vertical Power Delivery (VPD) & SiP, package-integrated multiphase IVRs, and holistic circuit-package co-design for AI accelerators and data centers.",
+    "focus": "Architectures for chiplet systems including high-density Intermediate Bus Converters (IBC) and Point-of-Load (PoL) regulators; multiphase package-integrated regulators and flip-chip PMICs; systematic optimization framework pushing the Pareto frontier of volumetric power density and system efficiency.",
+    "contributions": [
+      "Independently spearheaded end-to-end design, tape-out, and validation of 7 flip-chip PMICs; co-designed and verified 4 additional PMICs with 100% silicon success rate.",
+      "Established end-to-end design methodology for flip-chip PMICs and SiP integration targeting reduced iteration cycles for multi-chiplet power delivery networks.",
+      "First-authored 3 flagship conference papers at IEEE CICC 2026 and IEEE ESSERC 2026; 2 regular papers in IEEE JSSC on advanced IVR architectures."
+    ],
+    "relatedPublications": [
+      "ESSERC 2026 — Mobius 12V-to-1V converter ring for AI servers [C1]",
+      "ESSERC 2026 — Resonant-tank converter for vertical power delivery [C2]",
+      "JSSC — SCSL volumetric IVR with auxiliary-assisted gain boosting [J2]",
+      "JSSC — Segment-interlaced SC-parallel-inductor converter [J3]"
+    ],
+    "tags": ["Vertical Power Delivery", "PMIC", "SiP", "IVR"]
+  },
+  {
+    "id": "high-efficiency-control",
+    "level": "Pillar 2",
+    "title": "High-Efficiency Power Conversion & Intelligent Mixed-Signal Control",
+    "summary": "Hybrid/resonant SC topologies, learning-based control, and SIMO cross-regulation mitigation for compact high-density systems.",
+    "focus": "Advanced Hybrid/Resonant Switched-Capacitor topologies for soft-switching high-density regulation; circuit-level model/learning-based control and transient-aware algorithms; Single-Inductor Multiple-Output (SIMO) architectures with active cross-regulation suppression.",
+    "contributions": [
+      "Pioneered novel Hybrid/Resonant SC topologies and trajectory-based soft-switching control pushing Pareto frontiers of volumetric power density.",
+      "Chip implementation of lightweight learning algorithm into SIMO converter control for dynamic real-time cross-regulation mitigation.",
+      "Published 5 first-authored papers in IEEE APEC and IEEE COMPEL."
+    ],
+    "relatedPublications": [
+      "APEC 2026 — X-ReLA ReSC with 98.2% peak efficiency [C10]",
+      "APEC 2026 — Multi-resonant cascaded SC converter [C11]",
+      "COMPEL 2026 — GaN buck state-plane analysis; hybrid SC algebraic synthesis [C6, C7]",
+      "APEC 2025 — Time-optimal control for unordered SIDO converter [C18]"
+    ],
+    "tags": ["Hybrid SC", "Resonant SC", "SIMO", "RL Control"]
+  },
+  {
+    "id": "clocking-power-resilient",
+    "level": "Pillar 3",
+    "title": "Clocking-Power Co-Design, Dynamic Scaling & Resilient Architectures",
+    "summary": "Unified power-clock regulation, DVFS/MEP for ULP edge devices, IMC power-timing co-design, and circuit-level side-channel countermeasures.",
+    "focus": "Instruction-driven adaptive clocking, Unified Voltage-and-Frequency Regulators (UVFRs), and Minimum Energy Point (MEP) tracking; power-timing co-design for In-Memory Computing, voltage-stacked delivery, and WPT; integrated countermeasures for Power Side-Channel Attack.",
+    "contributions": [
+      "Spearheaded instruction-driven proactive clocking and adaptive power management for energy savings and ultra-dynamic transient response.",
+      "Led design of unified voltage-and-frequency regulators bridging digital clocking and analog power delivery.",
+      "Published 4 first-authored papers including IEEE TCAS-I and IEEE A-SSCC 2022."
+    ],
+    "relatedPublications": [
+      "CICC 2026 — Unicorn: Unified Clock-and-Power SoC [C8]",
+      "IEEE TCAS-I 2023 — Self-clocked UVFR [J1]",
+      "A-SSCC 2022 — Self-clocked TDC-based unified clock and voltage regulator [C24]"
+    ],
+    "tags": ["Clock-Power Co-design", "DVFS", "DLDO", "UVFR"]
+  }
+]

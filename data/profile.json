@@ -1,0 +1,40 @@
+{
+  "name": "Xuliang Wang",
+  "nameZh": "王旭亮",
+  "title": "Ph.D.",
+  "role": "Post-Doctoral Fellow",
+  "department": "Department of Electronic and Computer Engineering",
+  "affiliation": "Hong Kong University of Science and Technology",
+  "affiliationShort": "HKUST",
+  "center": "Power Semiconductors and Applications Center (PowerSAC)",
+  "centerDirector": "Prof. Kevin J. Chen (IEEE Fellow)",
+  "postdocProgram": "",
+  "email": "xwangef@connect.ust.hk",
+  "phone": "+86 15151856366",
+  "office": "CYT Building, The Hong Kong University of Science and Technology, Hong Kong SAR",
+  "scholarUrl": "https://scholar.google.com/citations?user=YDiR8uAAAAAJ&hl=zh-CN",
+  "cvFile": "/Xuliang_Wang_CV_202608.pdf",
+  "cvDownloadName": "Xuliang_Wang_CV_202608.pdf",
+  "portrait": "/portrait.jpg",
+  "tagline": "Mixed-signal PMIC design seamlessly integrated with 2.5D/3D advanced packaging — pioneering ultra-high-density, energy-efficient power delivery for next-generation AI computing, edge intelligence, and resilient semiconductor systems.",
+  "researchVision": "My research focuses on mixed-signal power management IC (PMIC) design, seamlessly integrated with 2.5D/3D advanced packaging. My vision is to pioneer ultra-high-density, energy-efficient power delivery and mixed-signal architectures for next-generation AI computing, edge-intelligence, and resilient semiconductor systems.",
+  "researchMainline": "Integrated Power Delivery for 2.5D/3D Heterogeneous Systems — Vertical Power Delivery (VPD), high-density PMIC & SiP, and package-integrated multiphase IVRs for AI accelerators and data centers.",
+  "about": "I am a Post-Doctoral Fellow in the Department of Electronic and Computer Engineering, Hong Kong University of Science and Technology (HKUST), affiliated with the Power Semiconductors and Applications Center (PowerSAC), directed by Prof. Kevin J. Chen (IEEE Fellow). I received my Ph.D. in Electronic & Computer Engineering from HKUST in 2023 (supervisor: Prof. Wing-Hung Ki; thesis: IR-Drop- and Timing-Aware Power Management Techniques for Microprocessors). I previously served as a Post-Doctoral Fellow and Assistant Research Fellow at the School of Integrated Circuits, Tsinghua University (2023–2026, supervisor: Prof. Xiaosen Liu), and earned my B.S. in Electronic Engineering from Southeast University in 2018.",
+  "postdocSummary": "Independently spearheaded the end-to-end design, tape-out, and experimental validation of 7 flip-chip PMICs, and co-designed and verified 4 additional flip-chip PMICs, maintaining a 100% silicon success rate. Established an end-to-end design methodology for flip-chip PMICs and SiP integration. First-authored 3 flagship conference papers at IEEE CICC 2026 and IEEE ESSERC 2026, and 2 regular papers in IEEE JSSC on advanced IVR architectures.",
+  "achievements": [
+    "Pillar 1 — Proven tape-out track record: 7 independent + 4 co-designed flip-chip PMICs with 100% silicon success; end-to-end Flip-chip PMIC & SiP methodology; 3 first-authored CICC/ESSERC 2026 papers and 2 first-authored IEEE JSSC papers on IVR.",
+    "Pillar 2 — Architectural breakthroughs in Hybrid/Resonant SC topologies and trajectory-based soft-switching; lightweight learning algorithm in SIMO control for real-time cross-regulation mitigation; 5 first-authored APEC/COMPEL papers.",
+    "Pillar 3 — Instruction-driven proactive clocking and adaptive power management; unified voltage-and-frequency regulators (UVFR); 4 first-authored papers including IEEE TCAS-I and IEEE A-SSCC 2022."
+  ],
+  "honors": [
+    "2026 Session Chair — IEEE Workshop on Control and Modeling for Power Electronics (COMPEL)",
+    "2026 Journal Reviewer — IEEE Transactions on Power Electronics (TPEL)",
+    "2023–2025 Beijing Municipal Natural Science Foundation — Youth Fund (Grant No. 4244106)",
+    "2023–2026 National Program for Recruiting Overseas Postdoctoral Talent",
+    "2023–2026 Shuimu Tsinghua Scholarship (Global Recruitment)"
+  ],
+  "researchStatement": "Three research pillars: (1) Integrated Power Delivery for 2.5D/3D heterogeneous systems — VPD & SiP, IVR, and holistic circuit-package co-design; (2) High-efficiency power conversion & intelligent mixed-signal control — hybrid/resonant SC, learning-based control, and SIMO cross-regulation mitigation; (3) Clocking-power co-design, dynamic scaling & resilient architectures — UVFR/DVFS/MEP, IMC power-timing co-design, and circuit-level side-channel countermeasures.",
+  "pipelineCommitment": "Continue advancing vertical power delivery, hybrid converter topologies, and unified clock–power regulation toward premier forums (ESSERC, CICC, APEC, COMPEL, JSSC, TCAS-I).",
+  "openTo": "Open to faculty positions and collaborative research on mixed-signal power management ICs, 3D ICs, and emerging power delivery solutions.",
+  "lastUpdated": "Aug 2026"
+}

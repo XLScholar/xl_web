@@ -1,0 +1,56 @@
+[
+  {
+    "id": "scsl",
+    "title": "SCSL",
+    "subtitle": "Figure 1 — JSSC 2026",
+    "caption": "Switched-Capacitor-Stack-Inductor Volumetric IVR with Auxiliary-Assisted Gain Boosting for High-Density PoL Applications [J2].",
+    "src": "/gallery/chips/thumb/p2.jpg",
+    "tags": ["JSSC", "Chip Gallery"],
+    "paperRef": "[J2] IEEE JSSC (Early Access)"
+  },
+  {
+    "id": "si-scpl",
+    "title": "SI-SCPL",
+    "subtitle": "Figure 2 — JSSC 2026",
+    "caption": "6-A 93.8%-Peak-Efficiency Segment-Interlaced SC-Parallel-Inductor Converter for Wafer-Scale Computing [J3].",
+    "src": "/gallery/chips/thumb/p5.jpg",
+    "tags": ["JSSC", "Chip Gallery"],
+    "paperRef": "[J3] IEEE JSSC (Early Access)"
+  },
+  {
+    "id": "rela",
+    "title": "ReLA",
+    "subtitle": "Figure 3 — ESSERC 2026",
+    "caption": "96.6%-Peak-Efficiency Resonant-Tank Converter with RDL Trace Inductor and Trajectory Control for Vertical Power Delivery [C2].",
+    "src": "/gallery/chips/thumb/p3.jpg",
+    "tags": ["ESSERC 2026", "Chip Gallery"],
+    "paperRef": "[C2] Resonant-Tank Converter — IEEE ESSERC 2026"
+  },
+  {
+    "id": "mobius",
+    "title": "Mobius",
+    "subtitle": "Figure 4 — ESSERC 2026",
+    "caption": "Mobius: A 12V-to-1V Charge-Cross-Converging Converter Ring with Monolithic Handshake Driving for Next-Generation AI Server [C1].",
+    "src": "/gallery/chips/thumb/p6.jpg",
+    "tags": ["ESSERC 2026", "Chip Gallery"],
+    "paperRef": "[C1] Mobius — IEEE ESSERC 2026"
+  },
+  {
+    "id": "unicorn",
+    "title": "Unicorn",
+    "subtitle": "Figure 5 — CICC 2026",
+    "caption": "Unicorn: A Unified Clock-and-Power SoC with RL-Adapted Digital SIMO Control and In-TRO Frequency Boosting for Edge Computing [C8].",
+    "src": "/gallery/chips/thumb/p1.jpg",
+    "tags": ["CICC 2026", "Chip Gallery"],
+    "paperRef": "[C8] Unicorn — IEEE CICC 2026"
+  },
+  {
+    "id": "uvfr",
+    "title": "UVFR",
+    "subtitle": "Figure 6 — TCAS-I 2023",
+    "caption": "A Self-Clocked and Variation-Tolerant Unified Voltage-and-Frequency Regulator for In-Order Executed Digital Loads [J1].",
+    "src": "/gallery/chips/thumb/p4.jpg",
+    "tags": ["TCAS-I", "Chip Gallery"],
+    "paperRef": "[J1] IEEE TCAS-I, vol. 70, no. 11, pp. 4627–4640, Nov. 2023"
+  }
+]
