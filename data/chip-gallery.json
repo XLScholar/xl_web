@@ -6,7 +6,7 @@
     "caption": "Switched-Capacitor-Stack-Inductor Volumetric IVR with Auxiliary-Assisted Gain Boosting for High-Density PoL Applications [J2].",
     "src": "/gallery/chips/thumb/p2.jpg",
     "tags": ["JSSC", "Chip Gallery"],
-    "paperRef": "[J2] IEEE JSSC (Early Access)"
+    "paperRef": "[J2] IEEE JSSC, vol. 61, no. 10, pp. 5825–5837, Oct. 2026"
   },
   {
     "id": "si-scpl",
@@ -21,28 +21,28 @@
     "id": "rela",
     "title": "ReLA",
     "subtitle": "Figure 3 — ESSERC 2026",
-    "caption": "96.6%-Peak-Efficiency Resonant-Tank Converter with RDL Trace Inductor and Trajectory Control for Vertical Power Delivery [C2].",
+    "caption": "96.6%-Peak-Efficiency Resonant-Tank Converter with RDL Trace Inductor and Trajectory Control for Vertical Power Delivery [C3].",
     "src": "/gallery/chips/thumb/p3.jpg",
     "tags": ["ESSERC 2026", "Chip Gallery"],
-    "paperRef": "[C2] Resonant-Tank Converter — IEEE ESSERC 2026"
+    "paperRef": "[C3] Resonant-Tank Converter — IEEE ESSERC 2026"
   },
   {
     "id": "mobius",
     "title": "Mobius",
     "subtitle": "Figure 4 — ESSERC 2026",
-    "caption": "Mobius: A 12V-to-1V Charge-Cross-Converging Converter Ring with Monolithic Handshake Driving for Next-Generation AI Server [C1].",
+    "caption": "Mobius: A 12V-to-1V Charge-Cross-Converging Converter Ring with Monolithic Handshake Driving for Next-Generation AI Server [C2].",
     "src": "/gallery/chips/thumb/p6.jpg",
     "tags": ["ESSERC 2026", "Chip Gallery"],
-    "paperRef": "[C1] Mobius — IEEE ESSERC 2026"
+    "paperRef": "[C2] Mobius — IEEE ESSERC 2026"
   },
   {
     "id": "unicorn",
     "title": "Unicorn",
     "subtitle": "Figure 5 — CICC 2026",
-    "caption": "Unicorn: A Unified Clock-and-Power SoC with RL-Adapted Digital SIMO Control and In-TRO Frequency Boosting for Edge Computing [C8].",
+    "caption": "Unicorn: A Unified Clock-and-Power SoC with RL-Adapted Digital SIMO Control and In-TRO Frequency Boosting for Edge Computing [C9].",
     "src": "/gallery/chips/thumb/p1.jpg",
     "tags": ["CICC 2026", "Chip Gallery"],
-    "paperRef": "[C8] Unicorn — IEEE CICC 2026"
+    "paperRef": "[C9] Unicorn — IEEE CICC 2026"
   },
   {
     "id": "uvfr",

@@ -330,7 +330,7 @@ export default function ManualEditPage() {
               <strong>改图片</strong>：选图后本页预览；再把文件复制到黄色路径，刷新正式站即可。
             </li>
             <li>
-              <strong>数据来源</strong>：当前内容来自 <code>Xuliang_Wang_CV_202608.pdf</code>。
+              <strong>数据来源</strong>：当前内容来自 <code>Xuliang_Wang_CV_Oct_2026.pdf</code>。
             </li>
           </ol>
         </section>

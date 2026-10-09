@@ -11,8 +11,8 @@
       "First-authored 3 flagship conference papers at IEEE CICC 2026 and IEEE ESSERC 2026; 2 regular papers in IEEE JSSC on advanced IVR architectures."
     ],
     "relatedPublications": [
-      "ESSERC 2026 — Mobius 12V-to-1V converter ring for AI servers [C1]",
-      "ESSERC 2026 — Resonant-tank converter for vertical power delivery [C2]",
+      "ESSERC 2026 — Mobius 12V-to-1V converter ring for AI servers [C2]",
+      "ESSERC 2026 — Resonant-tank converter for vertical power delivery [C3]",
       "JSSC — SCSL volumetric IVR with auxiliary-assisted gain boosting [J2]",
       "JSSC — Segment-interlaced SC-parallel-inductor converter [J3]"
     ],
@@ -27,13 +27,14 @@
     "contributions": [
       "Pioneered novel Hybrid/Resonant SC topologies and trajectory-based soft-switching control pushing Pareto frontiers of volumetric power density.",
       "Chip implementation of lightweight learning algorithm into SIMO converter control for dynamic real-time cross-regulation mitigation.",
-      "Published 5 first-authored papers in IEEE APEC and IEEE COMPEL."
+      "Published 6 first-authored papers in IEEE APEC and IEEE COMPEL."
     ],
     "relatedPublications": [
-      "APEC 2026 — X-ReLA ReSC with 98.2% peak efficiency [C10]",
-      "APEC 2026 — Multi-resonant cascaded SC converter [C11]",
-      "COMPEL 2026 — GaN buck state-plane analysis; hybrid SC algebraic synthesis [C6, C7]",
-      "APEC 2025 — Time-optimal control for unordered SIDO converter [C18]"
+      "APEC 2027 — Octopus resonant converter ring [C1]",
+      "APEC 2026 — X-ReLA ReSC with 98.2% peak efficiency [C11]",
+      "APEC 2026 — Multi-resonant cascaded SC converter [C12]",
+      "COMPEL 2026 — GaN buck state-plane analysis; hybrid SC algebraic synthesis [C7, C8]",
+      "APEC 2025 — Time-optimal control for unordered SIDO converter [C19]"
     ],
     "tags": ["Hybrid SC", "Resonant SC", "SIMO", "RL Control"]
   },
@@ -49,9 +50,9 @@
       "Published 4 first-authored papers including IEEE TCAS-I and IEEE A-SSCC 2022."
     ],
     "relatedPublications": [
-      "CICC 2026 — Unicorn: Unified Clock-and-Power SoC [C8]",
+      "CICC 2026 — Unicorn: Unified Clock-and-Power SoC [C9]",
       "IEEE TCAS-I 2023 — Self-clocked UVFR [J1]",
-      "A-SSCC 2022 — Self-clocked TDC-based unified clock and voltage regulator [C24]"
+      "A-SSCC 2022 — Self-clocked TDC-based unified clock and voltage regulator [C25]"
     ],
     "tags": ["Clock-Power Co-design", "DVFS", "DLDO", "UVFR"]
   }

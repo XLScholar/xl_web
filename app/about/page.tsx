@@ -21,6 +21,10 @@ export default function AboutPage() {
         <h2 className="text-2xl font-bold text-primary mt-10 mb-4">Education</h2>
         <ul className="space-y-4 text-gray-700 text-sm">
           <li>
+            <strong>Post-Doc.</strong> — Hong Kong University of Science and Technology, Hong Kong SAR (Present).
+            Supervisor: Chair Prof. Kevin Jing Chen (IEEE Fellow).
+          </li>
+          <li>
             <strong>Post-Doc.</strong> — Tsinghua University, Beijing, China (2026). Supervisor: Prof. Xiaosen Liu.
           </li>
           <li>
@@ -35,7 +39,7 @@ export default function AboutPage() {
         <h2 className="text-2xl font-bold text-primary mt-10 mb-4">Professional Experience</h2>
         <ul className="space-y-3 text-gray-700 text-sm">
           <li>
-            <strong>Post-Doctoral Fellow</strong> · Present · {profile.department}, {profile.affiliation}
+            <strong>Post-Doctoral Fellow</strong> · 2026–Present · {profile.department}, {profile.affiliation}
             {profile.center ? (
               <>
                 <br />

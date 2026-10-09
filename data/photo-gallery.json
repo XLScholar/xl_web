@@ -1,12 +1,33 @@
 [
   {
+    "id": "p13",
+    "title": "IEEE ESSERC 2026",
+    "location": "Mallorca, Spain · September 2026",
+    "caption": "At the IEEE European Solid-State Electronics Research Conference (ESSERC) in Mallorca — presenting Mobius and vertical power delivery research.",
+    "src": "/gallery/photos/thumb/p13.jpg",
+    "tags": [
+      "ESSERC",
+      "Mallorca",
+      "Conference"
+    ],
+    "featured": true,
+    "thumbSrc": "/gallery/photos/thumb/p13.jpg",
+    "originalPath": "source/photo_gallery/originals/p13.jpg"
+  },
+  {
     "id": "p1",
     "title": "IEEE COMPEL 2026",
     "location": "Cambridge, UK · July 2026",
     "caption": "At the IEEE Workshop on Control and Modeling for Power Electronics (COMPEL) in Cambridge — presenting power-electronics research and serving as Session Chair.",
     "src": "/gallery/photos/thumb/p1.jpg",
-    "tags": ["COMPEL", "Cambridge", "Conference"],
-    "featured": true
+    "tags": [
+      "COMPEL",
+      "Cambridge",
+      "Conference"
+    ],
+    "featured": true,
+    "thumbSrc": "/gallery/photos/thumb/p1.jpg",
+    "originalPath": "source/photo_gallery/originals/p1.jpg"
   },
   {
     "id": "p2",
@@ -14,8 +35,14 @@
     "location": "Seattle, WA, USA · April 2026",
     "caption": "At the IEEE Custom Integrated Circuits Conference (CICC) in Seattle — showcasing the Unicorn unified clock-and-power SoC and connecting with the IC design community.",
     "src": "/gallery/photos/thumb/p2.jpg",
-    "tags": ["CICC", "Seattle", "Conference"],
-    "featured": true
+    "tags": [
+      "CICC",
+      "Seattle",
+      "Conference"
+    ],
+    "featured": true,
+    "thumbSrc": "/gallery/photos/thumb/p2.jpg",
+    "originalPath": "source/photo_gallery/originals/p2.jpg"
   },
   {
     "id": "p3",
@@ -23,8 +50,14 @@
     "location": "HKUST, Hong Kong · Dec 2022",
     "caption": "Doctoral dissertation defense on the eve of Christmas 2022 at the Hong Kong University of Science and Technology — IR-Drop- and Timing-Aware Power Management Techniques for Microprocessors (supervisor: Prof. Wing-Hung Ki).",
     "src": "/gallery/photos/thumb/p3.jpg",
-    "tags": ["Ph.D.", "HKUST", "Milestone"],
-    "featured": true
+    "tags": [
+      "Ph.D.",
+      "HKUST",
+      "Milestone"
+    ],
+    "featured": true,
+    "thumbSrc": "/gallery/photos/thumb/p3.jpg",
+    "originalPath": "source/photo_gallery/originals/p3.jpg"
   },
   {
     "id": "p4",
@@ -35,8 +68,14 @@
     "sortOrder": 1,
     "caption": "Golden light that lingers at the horizon.",
     "src": "/gallery/photos/thumb/p4.jpg",
-    "tags": ["日不落", "London", "Travel"],
-    "featured": false
+    "tags": [
+      "日不落",
+      "London",
+      "Travel"
+    ],
+    "featured": false,
+    "thumbSrc": "/gallery/photos/thumb/p4.jpg",
+    "originalPath": "source/photo_gallery/originals/p4.jpg"
   },
   {
     "id": "p5",
@@ -47,8 +86,14 @@
     "sortOrder": 2,
     "caption": "Long summer evenings where day refuses to end.",
     "src": "/gallery/photos/thumb/p5.jpg",
-    "tags": ["日不落", "London", "Travel"],
-    "featured": false
+    "tags": [
+      "日不落",
+      "London",
+      "Travel"
+    ],
+    "featured": false,
+    "thumbSrc": "/gallery/photos/thumb/p5.jpg",
+    "originalPath": "source/photo_gallery/originals/p5.jpg"
   },
   {
     "id": "p6",
@@ -59,8 +104,14 @@
     "sortOrder": 3,
     "caption": "Warm skies stretching into the quiet north.",
     "src": "/gallery/photos/thumb/p6.jpg",
-    "tags": ["日不落", "London", "Travel"],
-    "featured": false
+    "tags": [
+      "日不落",
+      "London",
+      "Travel"
+    ],
+    "featured": false,
+    "thumbSrc": "/gallery/photos/thumb/p6.jpg",
+    "originalPath": "source/photo_gallery/originals/p6.jpg"
   },
   {
     "id": "p7",
@@ -71,8 +122,14 @@
     "sortOrder": 1,
     "caption": "Blue hour — the brief pause between daylight and night.",
     "src": "/gallery/photos/thumb/p7.jpg",
-    "tags": ["蓝调时刻", "Blue Hour", "Travel"],
-    "featured": false
+    "tags": [
+      "蓝调时刻",
+      "Blue Hour",
+      "Travel"
+    ],
+    "featured": false,
+    "thumbSrc": "/gallery/photos/thumb/p7.jpg",
+    "originalPath": "source/photo_gallery/originals/p7.jpg"
   },
   {
     "id": "p8",
@@ -83,8 +140,14 @@
     "sortOrder": 2,
     "caption": "Cool indigo tones settling over the city and sea.",
     "src": "/gallery/photos/thumb/p8.jpg",
-    "tags": ["蓝调时刻", "Blue Hour", "Travel"],
-    "featured": false
+    "tags": [
+      "蓝调时刻",
+      "Blue Hour",
+      "Travel"
+    ],
+    "featured": false,
+    "thumbSrc": "/gallery/photos/thumb/p8.jpg",
+    "originalPath": "source/photo_gallery/originals/p8.jpg"
   },
   {
     "id": "p9",
@@ -95,8 +158,14 @@
     "sortOrder": 3,
     "caption": "Twilight reflections before the first stars appear.",
     "src": "/gallery/photos/thumb/p9.jpg",
-    "tags": ["蓝调时刻", "Blue Hour", "Travel"],
-    "featured": false
+    "tags": [
+      "蓝调时刻",
+      "Blue Hour",
+      "Travel"
+    ],
+    "featured": false,
+    "thumbSrc": "/gallery/photos/thumb/p9.jpg",
+    "originalPath": "source/photo_gallery/originals/p9.jpg"
   },
   {
     "id": "p10",
@@ -107,8 +176,14 @@
     "sortOrder": 1,
     "caption": "The road ahead — open horizons and quiet determination.",
     "src": "/gallery/photos/thumb/p10.jpg",
-    "tags": ["路与远方", "Wanderlust", "Travel"],
-    "featured": false
+    "tags": [
+      "路与远方",
+      "Wanderlust",
+      "Travel"
+    ],
+    "featured": false,
+    "thumbSrc": "/gallery/photos/thumb/p10.jpg",
+    "originalPath": "source/photo_gallery/originals/p10.jpg"
   },
   {
     "id": "p11",
@@ -119,8 +194,14 @@
     "sortOrder": 2,
     "caption": "Paths that lead beyond the familiar skyline.",
     "src": "/gallery/photos/thumb/p11.jpg",
-    "tags": ["路与远方", "Wanderlust", "Travel"],
-    "featured": false
+    "tags": [
+      "路与远方",
+      "Wanderlust",
+      "Travel"
+    ],
+    "featured": false,
+    "thumbSrc": "/gallery/photos/thumb/p11.jpg",
+    "originalPath": "source/photo_gallery/originals/p11.jpg"
   },
   {
     "id": "p12",
@@ -131,7 +212,13 @@
     "sortOrder": 3,
     "caption": "Journeys remembered in motion, distance, and light.",
     "src": "/gallery/photos/thumb/p12.jpg",
-    "tags": ["路与远方", "Wanderlust", "Travel"],
-    "featured": false
+    "tags": [
+      "路与远方",
+      "Wanderlust",
+      "Travel"
+    ],
+    "featured": false,
+    "thumbSrc": "/gallery/photos/thumb/p12.jpg",
+    "originalPath": "source/photo_gallery/originals/p12.jpg"
   }
 ]

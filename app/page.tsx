@@ -61,7 +61,7 @@ export default function Home() {
         <section id="chips" className="py-12">
           <SectionHeader
             title="Chip Gallery"
-            description="Technical appendix figures — JSSC [J2, J3], ESSERC [C1, C2], CICC [C8], and TCAS-I [J1]."
+            description="Technical appendix figures — JSSC [J2, J3], ESSERC [C2, C3], CICC [C9], and TCAS-I [J1]."
             viewAllHref="/gallery/chips"
           />
           <ChipGalleryGrid items={chips} compact />
@@ -92,7 +92,7 @@ export default function Home() {
         <section id="publications" className="py-12">
           <SectionHeader
             title="Publications"
-            description="Complete list from CV — conference papers [C1]–[C26] and journal papers [J1]–[J3]."
+            description="Complete list from CV — conference papers [C1]–[C27] and journal papers [J1]–[J3]."
             viewAllHref={profile.scholarUrl}
             viewAllLabel="Google Scholar"
           />

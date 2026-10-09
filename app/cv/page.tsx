@@ -15,7 +15,7 @@ export default function CVPage() {
       <main className="max-w-4xl mx-auto px-6 pt-28 pb-24">
         <h1 className="text-4xl font-bold text-primary mb-4">Curriculum Vitae</h1>
         <p className="text-gray-600 mb-8">
-          Content synchronized from <em>Xuliang_Wang_CV_202608.pdf</em> (last updated {profile.lastUpdated}).
+          Content synchronized from <em>Xuliang_Wang_CV_Oct_2026.pdf</em> (last updated {profile.lastUpdated}).
         </p>
 
         <a

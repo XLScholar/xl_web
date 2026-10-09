@@ -1,20 +1,74 @@
 [
   {
+    "id": "pub-C1",
+    "date": "Mar 2027",
+    "sortKey": "2027-03-01",
+    "category": "publication",
+    "title": "[C1] Octopus accepted by IEEE APEC 2027 (Lecture)",
+    "summary": "X. Wang, T. Min, X. Liu, and K. J. Chen, “Octopus: a 5-mm-Height 337-W/in³ Resonant Converter Ring Featuring Saturation-Free Magnetic Flux and Reduced Resonant Capacitor Ripple via Quad-Phase Coupled Inductors,” APEC 2027 (Accepted as Lecture).",
+    "tags": ["APEC", "Publication", "First-author"]
+  },
+  {
+    "id": "pub-J2",
+    "date": "Oct 2026",
+    "sortKey": "2026-10-01",
+    "category": "publication",
+    "title": "[J2] First-author paper published in IEEE JSSC",
+    "summary": "X. Wang et al., “A 0.73 A/mm³ Switched-Capacitor-Stack-Inductor Volumetric Integrated Voltage Regulator with Auxiliary-Assisted Gain Boosting for High-Density PoL Applications,” IEEE JSSC, vol. 61, no. 10, pp. 5825–5837, Oct. 2026.",
+    "tags": ["JSSC", "Publication", "First-author"]
+  },
+  {
+    "id": "pub-C2",
+    "date": "Sept 2026",
+    "sortKey": "2026-09-01",
+    "category": "publication",
+    "title": "[C2] Mobius accepted by IEEE ESSERC 2026 (Lecture)",
+    "summary": "X. Wang et al., “Mobius: A 12V-to-1V Charge-Cross-Converging Converter Ring with Monolithic Handshake Driving for Next-Generation AI Server,” ESSERC 2026 (Accepted as Lecture).",
+    "tags": ["ESSERC", "Publication", "First-author"]
+  },
+  {
+    "id": "pub-C3",
+    "date": "Sept 2026",
+    "sortKey": "2026-09-02",
+    "category": "publication",
+    "title": "[C3] Resonant-tank VPD converter accepted by IEEE ESSERC 2026 (Lecture)",
+    "summary": "X. Wang et al., “A 96.6%-Peak-Efficiency 4.63-A/mm³ Resonant-Tank Converter with RDL Trace Inductor and Trajectory Control for Vertical Power Delivery,” ESSERC 2026 (Accepted as Lecture).",
+    "tags": ["ESSERC", "Publication", "First-author"]
+  },
+  {
+    "id": "pub-C4",
+    "date": "Sept 2026",
+    "sortKey": "2026-09-03",
+    "category": "publication",
+    "title": "[C4] Autonomous current-booster chiplet accepted by ESSERC 2026",
+    "summary": "R. Chen, X. Men, …, X. Wang, et al., “An Autonomous Computational Current-Booster Chiplet for Fast Droop Mitigation…,” ESSERC 2026 (Accepted as Lecture).",
+    "tags": ["ESSERC", "Publication"]
+  },
+  {
+    "id": "pub-C5",
+    "date": "Sept 2026",
+    "sortKey": "2026-09-04",
+    "category": "publication",
+    "title": "[C5] All-digital current-mode IVR accepted by ESSERC 2026",
+    "summary": "X. Men, R. Chen, …, X. Wang, et al., “A 280 MHz All-Digital Current-Mode IVR…,” ESSERC 2026 (Accepted as Lecture).",
+    "tags": ["ESSERC", "Publication"]
+  },
+  {
+    "id": "pub-C6",
+    "date": "Sept 2026",
+    "sortKey": "2026-09-05",
+    "category": "publication",
+    "title": "[C6] 256–316 GHz frequency quadrupler accepted by ESSERC 2026",
+    "summary": "W. Wu, …, X. Wang, et al., “A 256-316-GHz Frequency Quadrupler…,” ESSERC 2026 (Accepted as Lecture).",
+    "tags": ["ESSERC", "Publication"]
+  },
+  {
     "id": "pub-J3",
     "date": "Aug 2026",
     "sortKey": "2026-08-01",
     "category": "publication",
     "title": "[J3] First-author paper published in IEEE JSSC (Early Access)",
     "summary": "X. Wang et al., “A 6-A 93.8%-Peak-Efficiency 5V-to-Sub-1V Segment-Interlaced SC-Parallel-Inductor Converter Featuring Inherently Balanced Ganging for Wafer-Scale Computing System,” IEEE JSSC (Early Access), Aug. 2026.",
-    "tags": ["JSSC", "Publication", "First-author"]
-  },
-  {
-    "id": "pub-J2",
-    "date": "Jul 2026",
-    "sortKey": "2026-07-01",
-    "category": "publication",
-    "title": "[J2] First-author paper published in IEEE JSSC (Early Access)",
-    "summary": "X. Wang et al., “A 0.73 A/mm³ Switched-Capacitor-Stack-Inductor Volumetric Integrated Voltage Regulator with Auxiliary-Assisted Gain Boosting for High-Density PoL Applications,” IEEE JSSC (Early Access), Jul. 2026.",
     "tags": ["JSSC", "Publication", "First-author"]
   },
   {
@@ -27,6 +81,24 @@
     "tags": ["COMPEL", "Academic Service"]
   },
   {
+    "id": "pub-C7",
+    "date": "Jul 2026",
+    "sortKey": "2026-07-01",
+    "category": "publication",
+    "title": "[C7] GaN buck state-plane analysis accepted by IEEE COMPEL 2026 (Lecture)",
+    "summary": "X. Wang et al., “Geometrical State-Plane Analysis of GaN-Based Buck Converters with Auxiliary-Assisted Zero-Voltage Switching,” COMPEL 2026 (Accepted as Lecture).",
+    "tags": ["COMPEL", "Publication", "First-author"]
+  },
+  {
+    "id": "pub-C8",
+    "date": "Jul 2026",
+    "sortKey": "2026-07-02",
+    "category": "publication",
+    "title": "[C8] Hybrid SC algebraic synthesis accepted by IEEE COMPEL 2026 (Poster)",
+    "summary": "X. Wang et al., “Algebraic Synthesis for A Family of Inherently Balanced Multi-Phase Hybrid Switched-Capacitor Converters…,” COMPEL 2026 (Accepted as Poster).",
+    "tags": ["COMPEL", "Publication", "First-author"]
+  },
+  {
     "id": "service-tpel-2026",
     "date": "2026",
     "sortKey": "2026-06",
@@ -36,142 +108,97 @@
     "tags": ["TPEL", "Academic Service"]
   },
   {
-    "id": "pub-C1",
-    "date": "Sept 2026",
-    "sortKey": "2026-09-01",
-    "category": "publication",
-    "title": "[C1] Mobius accepted by IEEE ESSERC 2026 (Lecture)",
-    "summary": "X. Wang et al., “Mobius: A 12V-to-1V Charge-Cross-Converging Converter Ring with Monolithic Handshake Driving for Next-Generation AI Server,” ESSERC 2026 (Accepted as Lecture).",
-    "tags": ["ESSERC", "Publication", "First-author"]
-  },
-  {
-    "id": "pub-C2",
-    "date": "Sept 2026",
-    "sortKey": "2026-09-02",
-    "category": "publication",
-    "title": "[C2] Resonant-tank VPD converter accepted by IEEE ESSERC 2026 (Lecture)",
-    "summary": "X. Wang et al., “A 96.6%-Peak-Efficiency 4.63-A/mm³ Resonant-Tank Converter with RDL Trace Inductor and Trajectory Control for Vertical Power Delivery,” ESSERC 2026 (Accepted as Lecture).",
-    "tags": ["ESSERC", "Publication", "First-author"]
-  },
-  {
-    "id": "pub-C3",
-    "date": "Sept 2026",
-    "sortKey": "2026-09-03",
-    "category": "publication",
-    "title": "[C3] Autonomous current-booster chiplet accepted by ESSERC 2026",
-    "summary": "R. Chen, X. Men, …, X. Wang, et al., “An Autonomous Computational Current-Booster Chiplet for Fast Droop Mitigation…,” ESSERC 2026 (Accepted as Lecture).",
-    "tags": ["ESSERC", "Publication"]
-  },
-  {
-    "id": "pub-C4",
-    "date": "Sept 2026",
-    "sortKey": "2026-09-04",
-    "category": "publication",
-    "title": "[C4] All-digital current-mode IVR accepted by ESSERC 2026",
-    "summary": "X. Men, R. Chen, …, X. Wang, et al., “A 280 MHz All-Digital Current-Mode IVR…,” ESSERC 2026 (Accepted as Lecture).",
-    "tags": ["ESSERC", "Publication"]
-  },
-  {
-    "id": "pub-C5",
-    "date": "Sept 2026",
-    "sortKey": "2026-09-05",
-    "category": "publication",
-    "title": "[C5] 256–316 GHz frequency quadrupler accepted by ESSERC 2026",
-    "summary": "W. Wu, …, X. Wang, et al., “A 256-316-GHz Frequency Quadrupler…,” ESSERC 2026 (Accepted as Lecture).",
-    "tags": ["ESSERC", "Publication"]
-  },
-  {
-    "id": "pub-C6",
-    "date": "Jul 2026",
-    "sortKey": "2026-07-01",
-    "category": "publication",
-    "title": "[C6] GaN buck state-plane analysis accepted by IEEE COMPEL 2026 (Lecture)",
-    "summary": "X. Wang et al., “Geometrical State-Plane Analysis of GaN-Based Buck Converters with Auxiliary-Assisted Zero-Voltage Switching,” COMPEL 2026 (Accepted as Lecture).",
-    "tags": ["COMPEL", "Publication", "First-author"]
-  },
-  {
-    "id": "pub-C7",
-    "date": "Jul 2026",
-    "sortKey": "2026-07-02",
-    "category": "publication",
-    "title": "[C7] Hybrid SC algebraic synthesis accepted by IEEE COMPEL 2026 (Poster)",
-    "summary": "X. Wang et al., “Algebraic Synthesis for A Family of Inherently Balanced Multi-Phase Hybrid Switched-Capacitor Converters…,” COMPEL 2026 (Accepted as Poster).",
-    "tags": ["COMPEL", "Publication", "First-author"]
-  },
-  {
-    "id": "pub-C15",
+    "id": "pub-C16",
     "date": "May 2026",
     "sortKey": "2026-05",
     "category": "publication",
-    "title": "[C15] Triple-path resonant-tracked VR at IEEE ISPSD 2026",
+    "title": "[C16] Triple-path resonant-tracked VR at IEEE ISPSD 2026",
     "summary": "R. Chen, …, X. Wang, et al., “A Triple-Path Resonant-Tracked Voltage Regulator with Package Inductor for System-on-Wafer Vertical Power Delivery,” ISPSD 2026.",
     "tags": ["ISPSD", "Publication"]
   },
   {
-    "id": "pub-C8",
+    "id": "pub-C9",
     "date": "Apr 2026",
     "sortKey": "2026-04-01",
     "category": "publication",
-    "title": "[C8] Unicorn unified clock-and-power SoC at IEEE CICC 2026",
+    "title": "[C9] Unicorn unified clock-and-power SoC at IEEE CICC 2026",
     "summary": "X. Wang et al., “Unicorn: A Unified Clock-and-Power SoC with RL-Adapted Digital SIMO Control and In-TRO Frequency Boosting for Edge Computing,” CICC 2026.",
     "tags": ["CICC", "Publication", "First-author"]
   },
   {
-    "id": "pub-C9",
+    "id": "pub-C10",
     "date": "Apr 2026",
     "sortKey": "2026-04-02",
     "category": "publication",
-    "title": "[C9] Self-powered isolated gate driver at IEEE CICC 2026",
+    "title": "[C10] Self-powered isolated gate driver at IEEE CICC 2026",
     "summary": "Y. Liu, …, X. Wang, et al., “A 200kHz Self-Powered Isolated Gate Driver for SiC and IGBT…,” CICC 2026.",
     "tags": ["CICC", "Publication"]
   },
   {
-    "id": "pub-C10",
+    "id": "pub-C11",
     "date": "Mar 2026",
     "sortKey": "2026-03-01",
     "category": "publication",
-    "title": "[C10] X-ReLA ReSC (98.2% peak efficiency) at IEEE APEC 2026",
+    "title": "[C11] X-ReLA ReSC (98.2% peak efficiency) at IEEE APEC 2026",
     "summary": "X. Wang et al., “X-ReLA: a Family of Stacked-Ladder Charge-Cross-Converging ReSC with 98.2% Peak Efficiency…,” APEC 2026, pp. 3314–3320.",
-    "tags": ["APEC", "Publication", "First-author"]
-  },
-  {
-    "id": "pub-C11",
-    "date": "Mar 2026",
-    "sortKey": "2026-03-02",
-    "category": "publication",
-    "title": "[C11] Multi-resonant cascaded SC converter at IEEE APEC 2026",
-    "summary": "X. Wang et al., “A Multi-Resonant Cascaded Series-Parallel Switched-Capacitor Converter Featuring Continuously Scalable Conversion Ratio,” APEC 2026, pp. 2097–2103.",
     "tags": ["APEC", "Publication", "First-author"]
   },
   {
     "id": "pub-C12",
     "date": "Mar 2026",
-    "sortKey": "2026-03-03",
+    "sortKey": "2026-03-02",
     "category": "publication",
-    "title": "[C12] 100A regulated resonant SC converter at IEEE APEC 2026",
-    "summary": "H. Wang, …, X. Wang, et al., “A 30-60V Input 6V Output Regulated Resonant SC Converter… Achieving 100A and 1339W/in³,” APEC 2026.",
-    "tags": ["APEC", "Publication"]
+    "title": "[C12] Multi-resonant cascaded SC converter at IEEE APEC 2026",
+    "summary": "X. Wang et al., “A Multi-Resonant Cascaded Series-Parallel Switched-Capacitor Converter Featuring Continuously Scalable Conversion Ratio,” APEC 2026, pp. 2097–2103.",
+    "tags": ["APEC", "Publication", "First-author"]
   },
   {
     "id": "pub-C13",
     "date": "Mar 2026",
-    "sortKey": "2026-03-04",
+    "sortKey": "2026-03-03",
     "category": "publication",
-    "title": "[C13] CTR modeling for HPC PDNs at IEEE APEC 2026",
-    "summary": "H. Wang, …, X. Wang, et al., “Current–Temperature–Resistance Modeling and Conversion Loss Sharing Methodology…,” APEC 2026.",
+    "title": "[C13] 100A regulated resonant SC converter at IEEE APEC 2026",
+    "summary": "H. Wang, …, X. Wang, et al., “A 30-60V Input 6V Output Regulated Resonant SC Converter… Achieving 100A and 1339W/in³,” APEC 2026.",
     "tags": ["APEC", "Publication"]
   },
   {
     "id": "pub-C14",
     "date": "Mar 2026",
+    "sortKey": "2026-03-04",
+    "category": "publication",
+    "title": "[C14] CTR modeling for HPC PDNs at IEEE APEC 2026",
+    "summary": "H. Wang, …, X. Wang, et al., “Current–Temperature–Resistance Modeling and Conversion Loss Sharing Methodology…,” APEC 2026.",
+    "tags": ["APEC", "Publication"]
+  },
+  {
+    "id": "pub-C15",
+    "date": "Mar 2026",
     "sortKey": "2026-03-05",
     "category": "publication",
-    "title": "[C14] 1295W/in³ 160A quad-phase VPD module at IEEE APEC 2026",
+    "title": "[C15] 1295W/in³ 160A quad-phase VPD module at IEEE APEC 2026",
     "summary": "H. Wang, …, X. Wang, et al., “A 1295W/in³ 160A Quad-Phase VPD Module with Flexible Ganging…,” APEC 2026.",
     "tags": ["APEC", "Publication"]
   },
   {
-    "id": "service-compel-2026",
+    "id": "life-joined-hkust",
+    "date": "2026",
+    "sortKey": "2026-01",
+    "category": "milestone",
+    "title": "Joined HKUST as Post-Doctoral Fellow (PowerSAC)",
+    "summary": "Post-Doctoral Fellow, Department of Electronic and Computer Engineering, HKUST; affiliated with PowerSAC directed by Chair Prof. Kevin Jing Chen (IEEE Fellow).",
+    "tags": ["Career", "HKUST"]
+  },
+  {
+    "id": "award-bnrist-2026",
+    "date": "2026",
+    "sortKey": "2026-01-02",
+    "category": "milestone",
+    "title": "Key Participant — BNRIST Grant BNR2026RC01013",
+    "summary": "Beijing National Research Center for Information Science and Technology (Grant No. BNR2026RC01013).",
+    "tags": ["Award", "Funding"]
+  },
+  {
+    "id": "research-vpd",
     "date": "2023–2026",
     "sortKey": "2025-12",
     "category": "research",
@@ -207,65 +234,65 @@
     "tags": ["Research Interest", "Security", "IMC"]
   },
   {
-    "id": "pub-C21",
+    "id": "pub-C22",
     "date": "Oct 2025",
     "sortKey": "2025-10",
     "category": "publication",
-    "title": "[C21] Discontinuously resonant SC converter at IEEE APCCAS 2025",
+    "title": "[C22] Discontinuously resonant SC converter at IEEE APCCAS 2025",
     "summary": "H. Zhang, …, X. Wang, et al., “A Discontinuously Resonant Operation for Continuously-Scalable-Conversion-Ratio Switched Capacitor Converter…,” APCCAS 2025.",
     "tags": ["APCCAS", "Publication"]
   },
   {
-    "id": "pub-C16",
+    "id": "pub-C17",
     "date": "Jun 2025",
     "sortKey": "2025-06-01",
     "category": "publication",
-    "title": "[C16] 10W IVR chiplet at IEEE VLSI Symposium 2025",
+    "title": "[C17] 10W IVR chiplet at IEEE VLSI Symposium 2025",
     "summary": "X. Sun, X. Wang, et al., “A 10W 3.8-5V Input IVR Chiplet with 93%-Peak-Efficiency and 3.2A/mm² Density…,” VLSI Technology and Circuits 2025.",
     "tags": ["VLSI", "Publication"]
   },
   {
-    "id": "pub-C22",
+    "id": "pub-C23",
     "date": "Jun 2025",
     "sortKey": "2025-06-02",
     "category": "publication",
-    "title": "[C22] Capacitorless synthesizable DLDO at IEEE EDSSC 2025",
+    "title": "[C23] Capacitorless synthesizable DLDO at IEEE EDSSC 2025",
     "summary": "Y. Wang, X. Wang, et al., “A Capacitorless Fully Synthesizable Digital-LDO…,” EDSSC 2025.",
     "tags": ["EDSSC", "Publication"]
   },
   {
-    "id": "pub-C17",
+    "id": "pub-C18",
     "date": "Apr 2025",
     "sortKey": "2025-04",
     "category": "publication",
-    "title": "[C17] E-NPU event-driven neural SoC at IEEE CICC 2025",
+    "title": "[C18] E-NPU event-driven neural SoC at IEEE CICC 2025",
     "summary": "F. Tian, …, X. Wang, et al., “E-NPU: A 34~126nJ/Class Event-Driven Adaptive Neural SoC…,” CICC 2025.",
     "tags": ["CICC", "Publication"]
   },
   {
-    "id": "pub-C18",
+    "id": "pub-C19",
     "date": "Mar 2025",
     "sortKey": "2025-03-01",
     "category": "publication",
-    "title": "[C18] Time-optimal SIDO control at IEEE APEC 2025",
+    "title": "[C19] Time-optimal SIDO control at IEEE APEC 2025",
     "summary": "X. Wang et al., “Concurrent Charge Distribution and Time-Optimal Control for Unordered Single-Inductor Dual-Output Converter,” APEC 2025, pp. 2675–2680.",
     "tags": ["APEC", "Publication", "First-author"]
   },
   {
-    "id": "pub-C19",
+    "id": "pub-C20",
     "date": "Mar 2025",
     "sortKey": "2025-03-02",
     "category": "publication",
-    "title": "[C19] 660W 3D digital DC/DC module at IEEE APEC 2025",
+    "title": "[C20] 660W 3D digital DC/DC module at IEEE APEC 2025",
     "summary": "H. Wang, X. Wang, Y. Wang, and X. Liu, “A 660W, 96% Efficiency 3D Heterogeneously Integrated Digital DC/DC Power Module…,” APEC 2025.",
     "tags": ["APEC", "Publication"]
   },
   {
-    "id": "pub-C20",
+    "id": "pub-C21",
     "date": "Mar 2025",
     "sortKey": "2025-03-03",
     "category": "publication",
-    "title": "[C20] Multiphysics coupling model at IEEE APEC 2025",
+    "title": "[C21] Multiphysics coupling model at IEEE APEC 2025",
     "summary": "H. Wang, X. Wang, Y. Wang, and X. Liu, “Evaluation Index-Based Multiphysics Coupling Model…,” APEC 2025.",
     "tags": ["APEC", "Publication"]
   },
@@ -279,11 +306,11 @@
     "tags": ["Career", "Tape-out", "PMIC"]
   },
   {
-    "id": "pub-C23",
+    "id": "pub-C24",
     "date": "Apr 2024",
     "sortKey": "2024-04",
     "category": "publication",
-    "title": "[C23] FC5L voltage regulator at IEEE CICC 2024",
+    "title": "[C24] FC5L voltage regulator at IEEE CICC 2024",
     "summary": "X. Sun, J. Yu, X. Wang, et al., “A 92%-Efficiency 0.828μs Settling Time FC5L Voltage Regulator…,” CICC 2024.",
     "tags": ["CICC", "Publication"]
   },
@@ -302,7 +329,7 @@
     "sortKey": "2023-09",
     "category": "milestone",
     "title": "Joined Tsinghua University as Post-Doctoral Fellow & Assistant Research Fellow",
-    "summary": "School of Integrated Circuits, Tsinghua University. Awards: Beijing Municipal NSF Youth Fund (Grant No. 4244106, 2023–2025); National Program for Recruiting Overseas Postdoctoral Talent (2023–2026); Shuimu Tsinghua Scholarship (2023–2026).",
+    "summary": "School of Integrated Circuits, Tsinghua University. Awards: Beijing Municipal NSF (PI, Grant No. 4244106, 2023–2025); NSFC Key Participant (62374100); National Key R&D Key Participant (2022YFB4401100); National Program for Recruiting Overseas Postdoctoral Talent; Shuimu Tsinghua Scholarship (2023–2026).",
     "tags": ["Career", "Award"]
   },
   {
@@ -319,8 +346,26 @@
     "date": "2023–2025",
     "sortKey": "2023-05",
     "category": "milestone",
-    "title": "Beijing Municipal Natural Science Foundation – Youth Fund",
+    "title": "Principal Investigator — Beijing Municipal Natural Science Foundation",
     "summary": "Grant No. 4244106 (2023–2025).",
+    "tags": ["Award", "Funding"]
+  },
+  {
+    "id": "award-nsfc",
+    "date": "2023–2026",
+    "sortKey": "2023-04-03",
+    "category": "milestone",
+    "title": "Key Participant — NSFC Grant 62374100",
+    "summary": "National Natural Science Foundation of China (Grant No. 62374100), 2023–2026.",
+    "tags": ["Award", "Funding"]
+  },
+  {
+    "id": "award-nkrd",
+    "date": "2023–2026",
+    "sortKey": "2023-04-02",
+    "category": "milestone",
+    "title": "Key Participant — National Key R&D Program 2022YFB4401100",
+    "summary": "National Key R&D Program of China (Grant No. 2022YFB4401100), 2023–2026.",
     "tags": ["Award", "Funding"]
   },
   {
@@ -333,29 +378,29 @@
     "tags": ["Award"]
   },
   {
-    "id": "pub-C24",
+    "id": "pub-C25",
     "date": "Nov 2022",
     "sortKey": "2022-11-01",
     "category": "publication",
-    "title": "[C24] Self-clocked TDC UVFR at IEEE A-SSCC 2022",
+    "title": "[C25] Self-clocked TDC UVFR at IEEE A-SSCC 2022",
     "summary": "X. Wang, W.-H. Ki, and P. K. T. Mok, “A Self-Clocked TDC-Based Unified Clock and Voltage Regulator…,” A-SSCC 2022.",
     "tags": ["A-SSCC", "Publication", "First-author"]
   },
   {
-    "id": "pub-C26",
+    "id": "pub-C27",
     "date": "Nov 2022",
     "sortKey": "2022-11-02",
     "category": "publication",
-    "title": "[C26] Clock-domain-crossing DLDO controller at IEEE APCCAS 2022",
+    "title": "[C27] Clock-domain-crossing DLDO controller at IEEE APCCAS 2022",
     "summary": "X. Wang and W.-H. Ki, “A 65-nm Clock-Domain-Crossing Controller for Digital LDO Regulator with 1.7-ns Response Time,” APCCAS 2022.",
     "tags": ["APCCAS", "Publication", "First-author"]
   },
   {
-    "id": "pub-C25",
+    "id": "pub-C26",
     "date": "Jun 2022",
     "sortKey": "2022-06",
     "category": "publication",
-    "title": "[C25] Distributed DLDO partitioning at IEEE ISCAS 2022",
+    "title": "[C26] Distributed DLDO partitioning at IEEE ISCAS 2022",
     "summary": "X. Wang and W.-H. Ki, “Partitioning Scheme and Performance Analysis of Distributed Digital Low-Dropout Regulators in SoC,” ISCAS 2022.",
     "tags": ["ISCAS", "Publication", "First-author"]
   },
